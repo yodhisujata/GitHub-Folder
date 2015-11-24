@@ -1,0 +1,2 @@
+c:\users\bluest\documents\visual studio 2012\Projects\GitHubProjectTest\GitHubProjectTest\bin\Debug\GitHubProjectTest.exe.config
+C:\Users\Bluest\Documents\GitHub\GitHub-Folder\GitHubProjectTest\GitHubProjectTest\bin\Debug\GitHubProjectTest.exe.config
